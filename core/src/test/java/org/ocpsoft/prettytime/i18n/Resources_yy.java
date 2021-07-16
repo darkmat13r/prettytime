@@ -58,7 +58,7 @@ public class Resources_yy extends ListResourceBundle
             { "JustNowPattern", "%u" },
             { "JustNowFuturePrefix", "" },
             { "JustNowFutureSuffix", "moments from now" },
-            { "JustNowPastPrefix", "moments ago" },
+            { "JustNowPastPrefix", "a moment ago" },
             { "JustNowPastSuffix", "" },
             { "JustNowSingularName", "" },
             { "JustNowPluralName", "" },
